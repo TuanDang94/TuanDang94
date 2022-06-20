@@ -12,4 +12,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning elixir </br>
 - :octocat: I'm software engineer
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username= &theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TuanDang94 &theme=radical)
