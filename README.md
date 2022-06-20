@@ -16,4 +16,6 @@ Here are some ideas to get you started:
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=TuanDang94&count_private=true)
 
-![GitHubGitHub stats](https://github-readme-stats.vercel.app/api?username=TuanDang94&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=TuanDang94&show_icons=true)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=TuanDang94&show_icons=true&theme=radical)
