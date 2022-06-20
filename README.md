@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TuanDang94&theme=radical)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TuanDang94&hide=contribs,prs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TuanDang94&count_private=true)
