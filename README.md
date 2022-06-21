@@ -13,3 +13,5 @@ Here are some ideas to get you started:
 - :octocat: I'm software engineer
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=TuanDang94&show_icons=true)
+
+!(js-icon)[https://raw.githubusercontent.com/vorillaz/devicons/master/!PNG/javascript_1.png]
